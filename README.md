@@ -17,29 +17,29 @@ Steps to Run
 ### 1.	Install http-server Globally
 Use the following command to install a lightweight HTTP server globally:
 
-    ```bash
+  
     npm install -g http-server
-    ```
+  
 
 ### 2.	Navigate to Your Project Directory
 Move into the folder where your E-Library project files are located:
-    ```bash
+
     cd /path/to/your/project
-    ```
+   
 
 ### 3.	Start the Local Server
 Launch the server in your project directory:
 
-    ```bash
+    
     http-server
-    ```
+  
 
 ### 4.	Access the E-Library
 Open your browser and go to:
 
-    ```bash
+ 
     http://127.0.0.1:8080
-    ```
+   
 
 ## Features
 
