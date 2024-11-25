@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "isbn": "9780143127550",
+        "title": "Homo Deus",
+        "author": "Yuval Noah Harari",
+        "year": 2016,
+        "genre": "Non-Fiction",
+        "description": "A look at the future of humanity.",
+        "imageLoaded": false
+    },
+    {
+        "id": 2,
+        "isbn": "9781501124020",
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "year": 1988,
+        "genre": "Fiction",
+        "description": "A fable about following your dreams.",
+        "imageLoaded": false
+    },
+    {
+        "id": 3,
+        "isbn": "9780439064873",
+        "title": "Harry Potter and the Chamber of Secrets",
+        "author": "J.K. Rowling",
+        "year": 1998,
+        "genre": "Fiction",
+        "description": "Harry returns for his second year at Hogwarts.",
+        "imageLoaded": false
+    },
+    {
+        "id": 4,
+        "isbn": "9781451648546",
+        "title": "Steve Jobs",
+        "author": "Walter Isaacson",
+        "year": 2011,
+        "genre": "Non-Fiction",
+        "description": "The biography of Steve Jobs.",
+        "imageLoaded": false
+    },
+    {
+        "id": 5,
+        "isbn": "9780743273565",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1925,
+        "genre": "Fiction",
+        "description": "A classic novel about the Jazz Age.",
+        "imageLoaded": false
+    },
+    {
+        "id": 6,
+        "isbn": "9780385490818",
+        "title": "The Poisonwood Bible",
+        "author": "Barbara Kingsolver",
+        "year": 1998,
+        "genre": "Fiction",
+        "description": "A tale of family and cultural clashes in Africa.",
+        "imageLoaded": false
+    },
+    {
+        "id": 7,
+        "isbn": "9780618640157",
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "year": 1937,
+        "genre": "Fiction",
+        "description": "The prelude to The Lord of the Rings.",
+        "imageLoaded": false
+    },
+    {
+        "id": 8,
+        "isbn": "9780316769488",
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "year": 1951,
+        "genre": "Fiction",
+        "description": "A novel about teenage rebellion.",
+        "imageLoaded": false
+    },
+    {
+        "id": 9,
+        "isbn": "9780307473479",
+        "title": "The Road",
+        "author": "Cormac McCarthy",
+        "year": 2006,
+        "genre": "Fiction",
+        "description": "A post-apocalyptic journey of survival.",
+        "imageLoaded": false
+    },
+    {
+        "id": 10,
+        "isbn": "9781982134488",
+        "title": "Where the Crawdads Sing",
+        "author": "Delia Owens",
+        "year": 2018,
+        "genre": "Fiction",
+        "description": "A story of resilience in the wild marshes.",
+        "imageLoaded": false
+    },
+    {
+        "id": 11,
+        "isbn": "9780307592736",
+        "title": "Educated",
+        "author": "Tara Westover",
+        "year": 2018,
+        "genre": "Non-Fiction",
+        "description": "A memoir about overcoming an oppressive upbringing.",
+        "imageLoaded": false
+    },
+    {
+        "id": 12,
+        "isbn": "9780345816023",
+        "title": "The Testaments",
+        "author": "Margaret Atwood",
+        "year": 2019,
+        "genre": "Fiction",
+        "description": "The sequel to The Handmaid's Tale.",
+        "imageLoaded": false
+    },
+    {
+        "id": 13,
+        "isbn": "9780062316110",
+        "title": "Thinking, Fast and Slow",
+        "author": "Daniel Kahneman",
+        "year": 2011,
+        "genre": "Non-Fiction",
+        "description": "Exploration of cognitive biases and decision making.",
+        "imageLoaded": false
+    },
+    {
+        "id": 14,
+        "isbn": "9780399590504",
+        "title": "Becoming",
+        "author": "Michelle Obama",
+        "year": 2018,
+        "genre": "Non-Fiction",
+        "description": "The memoir of the former First Lady.",
+        "imageLoaded": false
+    },
+    {
+        "id": 15,
+        "isbn": "9780385722339",
+        "title": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "year": 2003,
+        "genre": "Fiction",
+        "description": "A tale of friendship and betrayal in Afghanistan.",
+        "imageLoaded": false
+    },
+    {
+        "id": 16,
+        "isbn": "9780553380163",
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "year": 2003,
+        "genre": "Fiction",
+        "description": "A mystery thriller about ancient secrets.",
+        "imageLoaded": false
+    },
+    {
+        "id": 17,
+        "isbn": "9780812995343",
+        "title": "All the Light We Cannot See",
+        "author": "Anthony Doerr",
+        "year": 2014,
+        "genre": "Fiction",
+        "description": "A novel set in World War II.",
+        "imageLoaded": false
+    },
+    {
+        "id": 18,
+        "isbn": "9780670020553",
+        "title": "The Immortal Life of Henrietta Lacks",
+        "author": "Rebecca Skloot",
+        "year": 2010,
+        "genre": "Non-Fiction",
+        "description": "The story of HeLa cells and scientific ethics.",
+        "imageLoaded": false
+    },
+    {
+        "id": 19,
+        "isbn": "9780345391803",
+        "title": "Jurassic Park",
+        "author": "Michael Crichton",
+        "year": 1990,
+        "genre": "Fiction",
+        "description": "Dinosaurs brought back to life with science.",
+        "imageLoaded": false
+    },
+    {
+        "id": 20,
+        "isbn": "9781250076229",
+        "title": "A Man Called Ove",
+        "author": "Fredrik Backman",
+        "year": 2012,
+        "genre": "Fiction",
+        "description": "A heartwarming tale of an elderly man finding new meaning.",
+        "imageLoaded": false
+    },
+    {
+        "id": 21,
+        "isbn": "9780593230251",
+        "title": "The Midnight Library",
+        "author": "Matt Haig",
+        "year": 2020,
+        "genre": "Fiction",
+        "description": "A journey through parallel lives.",
+        "imageLoaded": false
+    },
+    {
+        "id": 22,
+        "isbn": "9780812981605",
+        "title": "Me Before You",
+        "author": "Jojo Moyes",
+        "year": 2012,
+        "genre": "Fiction",
+        "description": "A love story that changes lives.",
+        "imageLoaded": false
+    },
+    {
+        "id": 23,
+        "isbn": "9781501110368",
+        "title": "Big Little Lies",
+        "author": "Liane Moriarty",
+        "year": 2014,
+        "genre": "Fiction",
+        "description": "Secrets unravel in a small community.",
+        "imageLoaded": false
+    },
+    {
+        "id": 24,
+        "isbn": "9780446310789",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": 1960,
+        "genre": "Fiction",
+        "description": "A classic of American literature.",
+        "imageLoaded": false
+    },
+    {
+        "id": 25,
+        "isbn": "9781250763440",
+        "title": "It Ends with Us",
+        "author": "Colleen Hoover",
+        "year": 2016,
+        "genre": "Fiction",
+        "description": "A powerful tale of love and resilience.",
+        "imageLoaded": false
+    },
+    {
+        "id": 26,
+        "isbn": "9780063069922",
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "year": 1965,
+        "genre": "Fiction",
+        "description": "A sci-fi epic on a desert planet.",
+        "imageLoaded": false
+    },
+    {
+        "id": 27,
+        "isbn": "9780735219090",
+        "title": "Little Fires Everywhere",
+        "author": "Celeste Ng",
+        "year": 2017,
+        "genre": "Fiction",
+        "description": "Interwoven lives and buried secrets.",
+        "imageLoaded": false
+    },
+    {
+        "id": 28,
+        "isbn": "9780553108033",
+        "title": "A Game of Thrones",
+        "author": "George R.R. Martin",
+        "year": 1996,
+        "genre": "Fiction",
+        "description": "The epic fantasy series begins.",
+        "imageLoaded": false
+    },
+    {
+        "id": 29,
+        "isbn": "9781400078776",
+        "title": "The Road Less Traveled",
+        "author": "M. Scott Peck",
+        "year": 1978,
+        "genre": "Non-Fiction",
+        "description": "A guide to personal and spiritual growth.",
+        "imageLoaded": false
+    },
+    {
+        "id": 30,
+        "isbn": "9780060883287",
+        "title": "The Art of Racing in the Rain",
+        "author": "Garth Stein",
+        "year": 2008,
+        "genre": "Fiction",
+        "description": "A dog's perspective on life and racing.",
+        "imageLoaded": false
+    },
+    {
+        "id": 31,
+        "isbn": "9781101967683",
+        "title": "11/22/63",
+        "author": "Stephen King",
+        "year": 2011,
+        "genre": "Fiction",
+        "description": "Time travel to prevent JFK's assassination.",
+        "imageLoaded": false
+    },
+    {
+        "id": 32,
+        "isbn": "9780812985405",
+        "title": "The Water Dancer",
+        "author": "Ta-Nehisi Coates",
+        "year": 2019,
+        "genre": "Fiction",
+        "description": "A tale of freedom and memories.",
+        "imageLoaded": false
+    },
+    {
+        "id": 33,
+        "isbn": "9780061122415",
+        "title": "The Help",
+        "author": "Kathryn Stockett",
+        "year": 2009,
+        "genre": "Fiction",
+        "description": "The voices of three women in 1960s Mississippi.",
+        "imageLoaded": false
+    },
+    {
+        "id": 34,
+        "isbn": "9780451524935",
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "genre": "Fiction",
+        "description": "A dystopian classic.",
+        "imageLoaded": false
+    },
+    {
+        "id": 35,
+        "isbn": "9780812993547",
+        "title": "Circe",
+        "author": "Madeline Miller",
+        "year": 2018,
+        "genre": "Fiction",
+        "description": "A retelling of a Greek myth.",
+        "imageLoaded": false
+    },
+    {
+        "id": 36,
+        "isbn": "9780307465351",
+        "title": "The Power of Habit",
+        "author": "Charles Duhigg",
+        "year": 2012,
+        "genre": "Non-Fiction",
+        "description": "The science of habits and change.",
+        "imageLoaded": false
+    },
+    {
+        "id": 37,
+        "isbn": "9780062356273",
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "year": 1932,
+        "genre": "Fiction",
+        "description": "A futuristic dystopia.",
+        "imageLoaded": false
+    },
+    {
+        "id": 38,
+        "isbn": "9781476746586",
+        "title": "Outliers",
+        "author": "Malcolm Gladwell",
+        "year": 2008,
+        "genre": "Non-Fiction",
+        "description": "The story of success.",
+        "imageLoaded": false
+    },
+    {
+        "id": 39,
+        "isbn": "9780345404473",
+        "title": "Dragonlance Chronicles",
+        "author": "Margaret Weis",
+        "year": 1984,
+        "genre": "Fiction",
+        "description": "An epic fantasy series.",
+        "imageLoaded": false
+    },
+    {
+        "id": 40,
+        "isbn": "9781984829854",
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "year": 2018,
+        "genre": "Non-Fiction",
+        "description": "How small changes lead to big results.",
+        "imageLoaded": false
+    },
+    {
+        "id": 41,
+        "isbn": "9781524763138",
+        "title": "Becoming",
+        "author": "Michelle Obama",
+        "year": 2018,
+        "genre": "Non-Fiction",
+        "description": "A memoir by the First Lady.",
+        "imageLoaded": false
+    },
+    {
+        "id": 42,
+        "isbn": "9780593139134",
+        "title": "A Promised Land",
+        "author": "Barack Obama",
+        "year": 2020,
+        "genre": "Non-Fiction",
+        "description": "Memoirs of the former US President.",
+        "imageLoaded": false
+    },
+    {
+        "id": 43,
+        "isbn": "9781400032716",
+        "title": "Beloved",
+        "author": "Toni Morrison",
+        "year": 1987,
+        "genre": "Fiction",
+        "description": "A masterpiece of American literature.",
+        "imageLoaded": false
+    },
+    {
+        "id": 44,
+        "isbn": "9780743484871",
+        "title": "Macbeth",
+        "author": "William Shakespeare",
+        "year": 1606,
+        "genre": "Fiction",
+        "description": "A tragedy of ambition and power.",
+        "imageLoaded": false
+    },
+    {
+        "id": 45,
+        "isbn": "9780062316094",
+        "title": "Quiet",
+        "author": "Susan Cain",
+        "year": 2012,
+        "genre": "Non-Fiction",
+        "description": "The power of introverts.",
+        "imageLoaded": false
+    },
+    {
+        "id": 46,
+        "isbn": "9781250301697",
+        "title": "Red Queen",
+        "author": "Victoria Aveyard",
+        "year": 2015,
+        "genre": "Fiction",
+        "description": "A fantasy world divided by blood.",
+        "imageLoaded": false
+    },
+    {
+        "id": 47,
+        "isbn": "9780062641540",
+        "title": "Before We Were Strangers",
+        "author": "Renée Carlino",
+        "year": 2015,
+        "genre": "Fiction",
+        "description": "A love story told through time.",
+        "imageLoaded": false
+    },
+    {
+        "id": 48,
+        "isbn": "9780316045487",
+        "title": "Twilight",
+        "author": "Stephenie Meyer",
+        "year": 2005,
+        "genre": "Fiction",
+        "description": "The beginning of the vampire romance saga.",
+        "imageLoaded": false
+    },
+    {
+        "id": 49,
+        "isbn": "9781591841740",
+        "title": "The 4-Hour Workweek",
+        "author": "Tim Ferriss",
+        "year": 2007,
+        "genre": "Non-Fiction",
+        "description": "Escape the 9-5 and live anywhere.",
+        "imageLoaded": false
+    },
+    {
+        "id": 50,
+        "isbn": "9780345546789",
+        "title": "And Then There Were None",
+        "author": "Agatha Christie",
+        "year": 1939,
+        "genre": "Fiction",
+        "description": "A murder mystery masterpiece.",
+        "imageLoaded": false
+    }
+]
